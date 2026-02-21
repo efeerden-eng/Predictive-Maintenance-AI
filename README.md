@@ -30,4 +30,10 @@ To maintain a professional folder structure, the source code and data are kept i
 
 **Example MATLAB path update:**
 ```matlab
+
+---
+### 🔍 Data Source & Acknowledgments
+* **Dataset:** [AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset)
+* **Source:** UCI Machine Learning Repository.
+* **Context:** This realistic predictive maintenance dataset is a great representation of modern Industry 4.0 challenges.
 data = readtable('../data/predictive_maintenance_data.csv');
