@@ -10,7 +10,7 @@ This project implements a Deep Learning (Patternnet) system to predict machine f
 
 ##  Performance Analysis
 
-The model was evaluated using robust metrics to ensure reliability in real-world industrial environments:
+I used these performance metrics to verify if the model is reliable for industrial maintenance tasks.
 
 # 1. Confusion Matrix
 This matrix highlights the model's success in catching failures. By applying a heavy cost penalty, we minimized False Negatives to ensure factory safety.
