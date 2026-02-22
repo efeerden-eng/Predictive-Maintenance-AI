@@ -38,4 +38,4 @@ To maintain a professional folder structure, the source code and data are kept i
 * **Context:** This realistic predictive maintenance dataset is a great representation of modern Industry 4.0 challenges.
 data = readtable('../data/predictive_maintenance_data.csv');
 ```
-**Project by Efe Erden *Control and Automation Engineering Student @ Yıldız Technical University*
+**Developed by Efe Erden *Control and Automation Engineering Student @ Yıldız Technical University*
